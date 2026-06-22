@@ -1,0 +1,12 @@
+name: tfml1
+channels:
+  - defaults
+dependencies:
+  - tensorflow
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - py-xgboost
+  - optuna
+  - opencv
+prefix: C:\Users\Sava\miniconda3\envs\tf
