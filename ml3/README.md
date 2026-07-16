@@ -69,7 +69,9 @@
  ![Концерт yeezus](images/example/yeezus.jpg)
  *Однотонная одежда актеров не определяется. Контрастное пальто угадано, но с низкой уверенностью.*
 
- <video src="images/example/video.mp4" controls width="600">
+https://github.com/user-attachments/assets/829fae5c-7e34-46be-be3d-656ce85fd68e
+
+<video src="images/example/video.mp4" controls width="600">
   Ваш браузер не поддерживает тег video.
 </video>
 
